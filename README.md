@@ -2,7 +2,7 @@
 - 👀 I’m interested in mathematics
 - 🌱 I’m currently learning to be a web developper
 - 💞️ I’m looking to collaborate on making a website about mathematical modelling
-- 📫 How to reach me ...
+- 📫 How to reach me on my twitter
 
 <!---
 ludiarianto/ludiarianto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
